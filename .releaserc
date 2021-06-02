@@ -1,5 +1,5 @@
 {
-  "repositoryUrl": "https://github.com/rarosu/semantic-release-testapp.git",
+  "repositoryUrl": "git@github.com:rarosu/semantic-release-testapp.git",
   "branches": [
     "master"
   ]
